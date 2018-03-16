@@ -1,0 +1,4 @@
+name: bungee-bug-test
+main: net.paulomart.bungeebugtest.BungeeBugTest
+version: dev
+author: Paulomart
